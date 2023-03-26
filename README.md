@@ -7,7 +7,7 @@ This project is a car parking sensor system that helps drivers park their cars s
 - HC-SR04 ultrasonic sensor
 - 16x2 LCD screen
 - Buzzer
--Breadboards
+- Breadboards
 
 ## Software
 The software is written in C language using the STM32CubeIDE development environment. The code utilizes Timer 2 for PWM signal generation to control the buzzer, and GPIO pins to read the sensor data and display it on the LCD screen.
