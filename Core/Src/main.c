@@ -196,7 +196,7 @@ int main(void)
 	  {
 		  HAL_TIM_PWM_Start(&htim2, TIM_CHANNEL_2);
 	  }
-      display_lcd(Distance);
+          display_lcd(Distance);
 	  HAL_Delay(50);
 
 
